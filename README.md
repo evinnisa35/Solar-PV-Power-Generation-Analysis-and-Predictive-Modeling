@@ -269,6 +269,8 @@ solar-power-generation-analysis/
 ├── src/
 │   └── analysis.py
 │
+├── .gitignore
+│ 
 ├── README.md
 └── requirements.txt
 ```
