@@ -1,4 +1,4 @@
-# Solar Power Generation Analysis
+# Solar PV Power Generation Analysis and Predictive Modeling
 
 A data analysis and machine learning project focused on analyzing solar power generation data and predicting AC power output using environmental and time-based features.
 
