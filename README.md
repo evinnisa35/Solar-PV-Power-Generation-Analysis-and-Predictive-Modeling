@@ -303,6 +303,3 @@ solar-power-generation-analysis/
 * Dashboard
 * Operational insights
 
-```
-Yani şu anda **sadece README'yi değiştirmen yeterli.** Sonra bana “yapıştırdım” de, `requirements.txt` ve GitHub kısmına geçelim.
-```
