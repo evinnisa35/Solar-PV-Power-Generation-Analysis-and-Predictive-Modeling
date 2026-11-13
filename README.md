@@ -28,9 +28,14 @@ The project is organized into three stages:
 
 ## Dataset
 
-The dataset used in this project is the **Solar Power Generation Data** dataset from Kaggle.
 
-It contains two main datasets:
+The dataset used in this project is publicly available on Kaggle.
+
+Due to repository size and data management considerations, the original CSV files are not included in this repository.
+
+**Dataset source:** [Solar Power Generation Data – Kaggle](https://www.kaggle.com/datasets/anikannal/solar-power-generation-data)
+
+Download the dataset and place the CSV files in the `data/` directory before running the analysis scripts.
 
 ### Generation Data
 
@@ -253,10 +258,6 @@ Planned features include:
 
 ```text
 solar-power-generation-analysis/
-│
-├── data/
-│   ├── Generation.csv
-│   └── Weather.csv
 │
 ├── figures/
 │   ├── daily_generation_profile.png
